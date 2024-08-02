@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\WebApplication5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\services\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\services\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\models\\reportmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\reportmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\models\\accountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\accountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\helpers\\authhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\helpers\\authhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|d:\\desktop\\webapplication5\\webapplication5\\services\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299A1A6-3C83-4821-AB91-29C5307E52D2}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\services\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Services\\ReportService.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Services\\ReportService.cs",
+              "RelativeToolTip": "WebApplication5\\Services\\ReportService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:52:35.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Controllers\\ReportsController.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "WebApplication5\\Controllers\\ReportsController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAA0wFUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:15:12.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplication5\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwDoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:14:41.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Services\\UserService.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Services\\UserService.cs",
+              "RelativeToolTip": "WebApplication5\\Services\\UserService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:49:56.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Services\\IUserService.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Services\\IUserService.cs",
+              "RelativeToolTip": "WebApplication5\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:49:06.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Services\\IReportService.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Services\\IReportService.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Services\\IReportService.cs",
+              "RelativeToolTip": "WebApplication5\\Services\\IReportService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:51:54.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountContext.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Models\\AccountContext.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\AccountContext.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Models\\AccountContext.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\AccountContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:07:54.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Program.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Program.cs",
+              "RelativeToolTip": "WebApplication5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:10:02.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\User.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:01:39.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportModel.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Models\\ReportModel.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\ReportModel.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Models\\ReportModel.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\ReportModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:43:12.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Controllers\\CompaniesController.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "WebApplication5\\Controllers\\CompaniesController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwEIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:14:02.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Models\\LoginModel.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:35:51.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\Company.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Models\\Company.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:58:09.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Models\\Report.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Models\\Report.cs",
+              "RelativeToolTip": "WebApplication5\\Models\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:02:16.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthHelpers.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Helpers\\AuthHelpers.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Helpers\\AuthHelpers.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Helpers\\AuthHelpers.cs",
+              "RelativeToolTip": "WebApplication5\\Helpers\\AuthHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T18:15:46.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication5\\appsettings.json",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\appsettings.json",
+              "RelativeToolTip": "WebApplication5\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T18:05:52.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Services\\CompanyService.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Services\\CompanyService.cs",
+              "RelativeToolTip": "WebApplication5\\Services\\CompanyService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA3wD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:27:54.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "D:\\Desktop\\WebApplication5\\WebApplication5\\Services\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Services\\ICompanyService.cs",
+              "ToolTip": "D:\\Desktop\\WebApplication5\\WebApplication5\\Services\\ICompanyService.cs",
+              "RelativeToolTip": "WebApplication5\\Services\\ICompanyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:43:03.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1234,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1234,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
